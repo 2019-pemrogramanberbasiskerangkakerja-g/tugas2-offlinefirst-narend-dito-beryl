@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "tugas2pbkk",
-    "tugas2": "tugas2pbkk"
+    "firlog": "fir-login-dd767",
+    "default": "fir-login-dd767"
   }
 }
